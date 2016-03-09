@@ -1,0 +1,6 @@
+settings = {
+    apikey: "AIzaSyAk9Wm5jmVYaBH8gHiOgrtSfUXbCWmp0ys",
+    url: "https://powerful-brushlands-30420.herokuapp.com/",
+    senderid: "1014880317459",
+    heroku: true
+}
